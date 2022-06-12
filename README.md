@@ -8,6 +8,6 @@ The code here shows the training and the prediction of class misogynous vs not m
 
 Our approach combines a BERT Transformer with CLIP for the textual and visual representations. Both textual and visual encoders are fused in an early-fusion fashion through a Multimodal Bidirectional Transformer with unimodally pretrained components.
 
-#Result
+# Result
 Our official submissions obtain macro-averaged F1=0.727 in Task A (4th position out of 69 participants) and weighted F1=0.710 in Task B (4th position out of 42 participants).
 
